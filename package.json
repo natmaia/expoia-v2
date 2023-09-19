@@ -13,7 +13,7 @@
     "@tensorflow-models/mobilenet": "^2.1.1",
     "@tensorflow/tfjs": "^4.11.0",
     "expo": "~49.0.11",
-    "expo-camera": "^7.0.0",
+    "expo-camera": "7.0.0",
     "expo-file-system": "~15.4.4",
     "expo-gl": "~13.0.1",
     "expo-gl-cpp": "^11.4.0",
